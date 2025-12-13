@@ -1,0 +1,16 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "dart_server_ws",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "2.18"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.10.1",
+  "flutterRoot": "file:///C:/flutter",
+  "flutterVersion": "3.38.3",
+  "pubCache": "file:///C:/Users/temiz/AppData/Local/Pub/Cache"
+}

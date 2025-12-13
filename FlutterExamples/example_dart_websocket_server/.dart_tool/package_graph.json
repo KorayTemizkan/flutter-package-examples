@@ -1,0 +1,14 @@
+{
+  "roots": [
+    "dart_server_ws"
+  ],
+  "packages": [
+    {
+      "name": "dart_server_ws",
+      "version": "0.0.1",
+      "dependencies": [],
+      "devDependencies": []
+    }
+  ],
+  "configVersion": 1
+}
