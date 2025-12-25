@@ -1,4 +1,4 @@
-# Flutter Package Labs 🚀
+# Flutter Package Examples 🚀
 
 Bu repository, **Flutter ekosistemindeki paketleri denemek, öğrenmek ve küçük örnekler (POC / demo)** geliştirmek amacıyla oluşturulmuştur.
 
